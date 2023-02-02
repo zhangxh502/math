@@ -2,4 +2,6 @@ FROM registry.cn-hangzhou.aliyuncs.com/yiducloud/ubuntu:my
 
 WORKDIR /root
 COPY sources.list /etc/apt/sources.list
-RUN  wget https://jorropo.net/ipfs/bafykbzacebniwyrqnzdubfcyaggrf6ypksgxl64pzkrs6dxmwuos5oi2zupie?filename=%E5%88%86%E6%9E%90%E4%B8%8E%E4%BB%A3%E6%95%B0%E5%8E%9F%E7%90%86%20%E5%8F%8A%E6%95%B0%E8%AE%BA%20%E7%AC%AC2%E5%8D%B7%20%E7%AC%AC2%E7%89%88%20%E6%B3%95%E5%85%B0%E8%A5%BF%E6%95%B0%E5%AD%A6%E7%B2%BE%E5%93%81%E8%AF%91%E4%B8%9B.pdf
+RUN  wget https://dw.oho.im/ipfs/bafykbzaceditmxgokwbewzlu7fvrmxpugry33kplvpn3n3qvdcpqu5n644dri?filename=%E6%95%B0%E5%AD%A6%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%EF%BC%88%E7%AC%AC%E4%B8%80%E5%8D%B7%EF%BC%89.pdf && \
+     wget https://dw.oho.im/ipfs/bafykbzacebowf44u7t2exzd6pcswyfovlb7lwo65lbpm646l2j7pzfio3fffo?filename=%E6%95%B0%E5%AD%A6%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%EF%BC%88%E7%AC%AC%E4%B8%89%E5%8D%B7%EF%BC%89.pdf && \
+     wget https://jorropo.net/ipfs/bafykbzaceclf2obahubd4zu32oyk5g34pbbdfdddl3jvuguilhhhev6476mmi?filename=%E6%95%B0%E5%AD%A6%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%8D%B7%EF%BC%89.pdf
